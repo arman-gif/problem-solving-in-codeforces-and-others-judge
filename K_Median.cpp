@@ -20,6 +20,7 @@ int main()
 
         sort(a.begin(), a.end());
         
+        
     }
     
 
